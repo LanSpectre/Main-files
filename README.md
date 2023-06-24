@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Escorpiano-GT
+- 👋 Hi, I’m @LanSpectre
 - 👀 I’m interested in coding and learning new programming languages.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
